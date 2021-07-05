@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Memory-Card/static/css/main.68e1f048.chunk.css",
+    "main.js": "/Memory-Card/static/js/main.05e31061.chunk.js",
+    "main.js.map": "/Memory-Card/static/js/main.05e31061.chunk.js.map",
+    "runtime-main.js": "/Memory-Card/static/js/runtime-main.5e43af9d.js",
+    "runtime-main.js.map": "/Memory-Card/static/js/runtime-main.5e43af9d.js.map",
+    "static/js/2.91d28eec.chunk.js": "/Memory-Card/static/js/2.91d28eec.chunk.js",
+    "static/js/2.91d28eec.chunk.js.map": "/Memory-Card/static/js/2.91d28eec.chunk.js.map",
+    "index.html": "/Memory-Card/index.html",
+    "static/css/main.68e1f048.chunk.css.map": "/Memory-Card/static/css/main.68e1f048.chunk.css.map",
+    "static/js/2.91d28eec.chunk.js.LICENSE.txt": "/Memory-Card/static/js/2.91d28eec.chunk.js.LICENSE.txt",
+    "static/media/Abradolf_Lincler.fe831376.png": "/Memory-Card/static/media/Abradolf_Lincler.fe831376.png",
+    "static/media/Beth.6744f853.png": "/Memory-Card/static/media/Beth.6744f853.png",
+    "static/media/Birdperson.364a3760.png": "/Memory-Card/static/media/Birdperson.364a3760.png",
+    "static/media/Jerry_Smith.4e2f3932.png": "/Memory-Card/static/media/Jerry_Smith.4e2f3932.png",
+    "static/media/Nimbus.097d8bf3.png": "/Memory-Card/static/media/Nimbus.097d8bf3.png",
+    "static/media/Rick_Sanchez.ed220032.png": "/Memory-Card/static/media/Rick_Sanchez.ed220032.png",
+    "static/media/Scary-Terry.a82bd1d4.png": "/Memory-Card/static/media/Scary-Terry.a82bd1d4.png",
+    "static/media/cromulons.ff7ca99c.png": "/Memory-Card/static/media/cromulons.ff7ca99c.png",
+    "static/media/doofy.9fd65ce3.png": "/Memory-Card/static/media/doofy.9fd65ce3.png",
+    "static/media/logo.de13d484.png": "/Memory-Card/static/media/logo.de13d484.png",
+    "static/media/meeseeks.86f4979f.png": "/Memory-Card/static/media/meeseeks.86f4979f.png",
+    "static/media/morty.210d2bf3.png": "/Memory-Card/static/media/morty.210d2bf3.png",
+    "static/media/mr_poopybutthole.15bff2a5.png": "/Memory-Card/static/media/mr_poopybutthole.15bff2a5.png",
+    "static/media/squanchy.383d6bbb.png": "/Memory-Card/static/media/squanchy.383d6bbb.png",
+    "static/media/summer.b1fe78d8.png": "/Memory-Card/static/media/summer.b1fe78d8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e43af9d.js",
+    "static/js/2.91d28eec.chunk.js",
+    "static/css/main.68e1f048.chunk.css",
+    "static/js/main.05e31061.chunk.js"
+  ]
+}
