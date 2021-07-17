@@ -1,0 +1,35 @@
+.card{
+    display: inline-block;
+    margin: 1.5vh;
+    margin-top: 2.5vh;
+    margin-left: 2.2vh;
+    height: 40vh;
+    width: 30vh;
+    background-color: rgb(15, 215, 241);
+    border: 4px solid rgb(18, 161, 161);
+    text-align: center;
+    overflow: hidden;
+}
+
+img{
+    width: 28vh;
+    margin-left: 0vh;
+    margin-top: 1vh;
+}
+
+.title{
+    display: block;
+    padding-top: 0%;
+    padding: 0.5vh;
+    font-size: 2.5vh;
+    height: 2vh;
+}
+
+.desc{
+    display: block;
+    background-color: rgba(0, 0, 0, 0.63);
+    width: 27.5vh;
+    margin-left: 0.8vh;
+    padding: 0.5vh;
+    font-size: 2vh;
+}
