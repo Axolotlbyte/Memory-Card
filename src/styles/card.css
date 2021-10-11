@@ -1,14 +1,17 @@
 .card{
-    display: inline-block;
+    display: inline-block; 
     margin: 1.5vh;
+    justify-self: center;
     margin-top: 2.5vh;
-    margin-left: 2.2vh;
-    height: 40vh;
+    height: 42vh;
     width: 30vh;
     background-color: rgb(15, 215, 241);
     border: 4px solid rgb(18, 161, 161);
     text-align: center;
     overflow: hidden;
+}.card:active{
+    transform: scale(1.05);
+    transition: transform 0.3s;
 }
 
 img{

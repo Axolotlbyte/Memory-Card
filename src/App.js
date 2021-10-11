@@ -1,7 +1,8 @@
 import React ,{ useEffect, useState } from 'react';
 import Container from './components/container'
 import Header from './components/header'
-import '../src/styles/App.css'
+import Footer from './components/Footer';
+
 import lincler from './images/Abradolf_Lincler.png'
 import beth from './images/Beth.png'
 import birdperson from './images/Birdperson.png'
@@ -115,7 +116,9 @@ function App() {
     }
 
     const reset = () => {
-      setHighscore(score)
+      if(score > highscore){
+        setHighscore(score)
+      }
       setScore(0)
     }
 
@@ -134,6 +137,7 @@ function App() {
           <Header score={score} highscore={highscore}/>
         </div>
         <Container cardContent={cardContent} score={score} highscore={highscore} handleScore={newScore} reset={reset}/>
+        <Footer/>
       </div>
     );
 }

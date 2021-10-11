@@ -1,7 +1,0 @@
-.grid{
-    display: grid;
-    position:fixed;
-    grid-template-columns: repeat(4,23vh);
-    grid-template-rows: repeat(3,auto);
-    margin: auto;
-}
